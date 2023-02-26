@@ -104,6 +104,7 @@ body {
     color: var(--Light-lavender);
     font-size: 1rem;
     width: 80%;
+    margin: auto;
 
 }
 
